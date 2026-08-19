@@ -1,0 +1,10 @@
+{
+  "cases_indexed": 15,
+  "last_scrape_time": "2026-08-19T16:29:17.233059",
+  "recent_heal_events": [
+    {
+      "timestamp": "2026-08-19T16:29:17.233059",
+      "description": "Healed listing collector to extract all cases as array."
+    }
+  ]
+}
